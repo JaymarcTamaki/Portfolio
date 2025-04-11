@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
     const projects = document.querySelectorAll(".project-box");
     const modal = document.getElementById("slideshowModal");
-    const closeModal = document.querySelector(".close");
+    const closeModal = document.querySelector("#slideshowModal .close");
     const slidesContainer = document.querySelector(".slides");
     const prevButton = document.querySelector(".prev");
     const nextButton = document.querySelector(".next");

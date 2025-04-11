@@ -667,6 +667,9 @@ footer{
     right: 20px;
     font-size: 30px;
     cursor: pointer;
+    z-index: 9999; /* Make sure it's above everything */
+    display: block; /* or inline-block, or whatever's appropriate */
+    pointer-events: auto;
 }
 .slideshow-container {
     display: flex;
