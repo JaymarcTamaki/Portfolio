@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let currentIndex = 0;
 
     const projectImages = {
-        1: ["img1.jpg", "img2.jpg", "img3.jpg"], // Replace with actual image paths
+        1: ["dswd/1.png", "dswd/2.png", "dswd/3.png", "dswd/4.png", "dswd/5.png", "dswd/6.png", "dswd/7.png", "dswd/8.png", "dswd/9.png", "dswd/10.png", "dswd/11.png"], 
         2: ["oshc/1.png", "oshc/2.png", "oshc/3.png", "oshc/4.png", "oshc/5.png", "oshc/6.png", "oshc/7.png", "oshc/8.png", "oshc/9.png", "oshc/10.png", "oshc/11.png", "oshc/12.png"],
         3: ["TsaSora/1.png", "TsaSora/2.png", "TsaSora/3.png", "TsaSora/4.png", "TsaSora/5.png", "TsaSora/6.png"]
     };
